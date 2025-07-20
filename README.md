@@ -1,5 +1,6 @@
 # Car Sales Dashboard Project
-
+![Dashboard](1.jpg)
+(2.jpg)
 ## Overview
 
 This project features a comprehensive **Car Sales Dashboard** developed using Microsoft Power BI, designed to provide actionable insights into car sales performance across various dimensions. The dashboard was last updated on May 21, 2025, at 6:51 PM EEST, and serves as a powerful tool for business analysts, sales managers, and stakeholders to monitor key performance indicators (KPIs), identify trends, and make data-driven decisions.
